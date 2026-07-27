@@ -1,0 +1,24 @@
+# temporary files (Linux & MacOS)
+*~
+.#*
+[#]*#
+*.sw[nop]
+.DS_Store
+# sdkman
+.sdkman/
+# jenv files
+.java-version
+.jenv/
+# maven
+target/
+# eclipse files
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+# intellij
+.idea
+*.iml
+out/
+
